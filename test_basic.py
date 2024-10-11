@@ -1,6 +1,6 @@
 import pytest
 from unittest.mock import patch, MagicMock
-from main import AppHandler, Valasztas, main
+from autokolcsonzo.main import AppHandler, Valasztas, main
 
 
 @pytest.fixture

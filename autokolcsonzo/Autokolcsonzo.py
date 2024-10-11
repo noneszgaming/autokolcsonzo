@@ -3,10 +3,10 @@ from datetime import date
 
 
 #Project
-from Auto import AutoMarka
-from Berles import Berles
-from Szemelyauto import Szemelyauto
-from Teherauto import Teherauto
+from .Auto import AutoMarka
+from .Berles import Berles
+from .Szemelyauto import Szemelyauto
+from .Teherauto import Teherauto
 
 
 class Autokolcsonzo:

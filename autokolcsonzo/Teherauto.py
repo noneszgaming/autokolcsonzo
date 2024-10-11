@@ -1,6 +1,6 @@
 
 #Project
-from Auto import Auto
+from .Auto import Auto
 
 
 class Teherauto(Auto):

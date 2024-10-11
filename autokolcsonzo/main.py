@@ -1,9 +1,9 @@
 
 
 #Project
-from Autokolcsonzo import adat_betoltes
-from Apphandler import AppHandler
-from Valasztas import Valasztas
+from .Autokolcsonzo import adat_betoltes
+from .Apphandler import AppHandler
+from .Valasztas import Valasztas
 
 
 
